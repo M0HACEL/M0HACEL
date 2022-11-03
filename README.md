@@ -1,7 +1,7 @@
 ### Hi, I'm Mohacel Hosen
 #### Front-end Developer
 <img aling="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-I’m a front-end web developer. I have a passion for learning and sharing my knowledge with others. Over the last three years, I have explored cyber security, computer networks, and Blockchain. Right now, I am working on Java.
+<p aling="left">I’m a front-end web developer. I have a passion for learning and sharing my knowledge with others. Over the last three years, I have explored cyber security, computer networks, and Blockchain. Right now, I am working on Java.</p>
 
 Skills:  HTML / CSS/JS/Java/SQL/MongoDB/WordPress
 
