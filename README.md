@@ -1,6 +1,5 @@
 ### Hi, I'm Mohacel Hosen
 #### Front-end Developer
-![Front-end Developer](https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/300419434_482269503907988_857018721194988989_n.jpg?stp=dst-jpg_p180x540&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=DJDm3nWY1C0AX-FYsJH&_nc_ht=scontent.fdac136-1.fna&oh=00_AfADOABI1q_XijFe-z--qXuRITBNuo1uehwXBN-XeeL31Q&oe=63676230)
 
 I’m a front-end web developer. I have a passion for learning and sharing my knowledge with others. Over the last three years, I have explored cyber security, computer networks, and Blockchain. Right now, I am working on Java.
 
@@ -22,3 +21,4 @@ Skills:  HTML / CSS/JS/Java/SQL/MongoDB/WordPress
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=M0HACEL)  
 
+![Front-end Developer](https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/300419434_482269503907988_857018721194988989_n.jpg?stp=dst-jpg_p180x540&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=DJDm3nWY1C0AX-FYsJH&_nc_ht=scontent.fdac136-1.fna&oh=00_AfADOABI1q_XijFe-z--qXuRITBNuo1uehwXBN-XeeL31Q&oe=63676230)
